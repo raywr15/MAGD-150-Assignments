@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+#MAGD 150
+Here's some code I've made over the fall semester in MAGD 150
 
-You can use the [editor on GitHub](https://github.com/raywr15/MAGD-150-Assignments/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+##Ping
+This [code](https://github.com/raywr15/MAGD-150-Assignments/tree/gh-pages/f21magd150lab06_Ray_2021_12_09_22_37_08) is a simple version of pong but it goes from the top to the bottom so I call it Ping. This game consists of two players controlling the paddles with 'a' and 's' or 'j' and 'k'.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##City Design
+In this [design](https://github.com/raywr15/MAGD-150-Assignments/tree/gh-pages/f21magd150lab10_Ray_2021_12_09_22_29_45) I've created a map of a city. In the design there is a movable camera that allows the user to look around the city. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##Mirrors
+In this[code](https://github.com/raywr15/MAGD-150-Assignments/tree/gh-pages/f21magd150lab09_Ray_2021_12_09_22_32_48), it uses video capture to get the users video and creates "mirror" of themselves in different filters. It also has a button that alllows for reverbed music to be played
 
-```markdown
-Syntax highlighted code block
+##TV Remote
+In this [design](https://github.com/raywr15/MAGD-150-Assignments/tree/gh-pages/f21magd150lab05_Ray_2021_12_09_22_38_03), I made a interactive remote that turns on the tv and a pause/play button. When the buttons are pressed the TV responses with either turning on, being paused, or a simple screen that the TV is on.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/raywr15/MAGD-150-Assignments/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+##Movie Poster
+In this [poster](https://github.com/raywr15/MAGD-150-Assignments/tree/gh-pages/Poster_2021_12_09_22_34_58), I made my own Star Wars Revenge of the Sith poster where it shows the light and dark side of the chosen one. This is displayed by being on one side of the lightsaber.
